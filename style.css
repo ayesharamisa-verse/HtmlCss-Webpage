@@ -1,0 +1,83 @@
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html, body
+{
+    height: 100%;
+    width: 100%;
+
+}
+
+h2{ 
+    color: rgb(244, 248, 249);
+    background-color:midnightblue;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 90;
+    font-style: normal;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+   
+}
+
+h3{
+    color: rgb(241, 241, 251);
+    background-color: rgb(76, 117, 156) ;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+   
+    
+    
+  
+  
+   
+
+    
+}
+
+.about-me{
+    color: rgb(243, 243, 249);
+    background-color: rgb(109, 140, 227);
+    height: auto;
+    width: auto%;
+    margin: 20px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+
+.profile-image{
+    object-fit: cover;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+}
+
+.basic-information{
+    color: rgb(15, 2, 154);
+    height: auto;
+    width: 40px%;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#student-name{
+color: rgb(33, 33, 162);
+font-size:30px ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
